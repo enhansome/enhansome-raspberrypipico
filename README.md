@@ -1,1 +1,95 @@
-# enhansome-raspberrypipico
+# Raspberry Pi Pico Awesome List with stars
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+This is a Curation of Raspberry Pi Pico resources. The Raspberry Pi [Pico](https://www.raspberrypi.org/documentation/pico/getting-started/) is a 'low-cost, high-performance microcontroller board with flexible digital interfaces.'
+
+## Contents
+
+* [Documentation](#documentation)
+* [Software/Tools](#software-tools)
+* [Resources](#resources)
+  * [Blogs](#blogs)
+  * [Books](#books)
+  * [Projects](#projects)
+  * [Tutorials](#tutorials)
+  * [Videos](#videos)
+
+## Documentation
+
+* [Getting Started](https://datasheets.raspberrypi.org/pico/getting-started-with-pico.pdf) - The official Pico getting started guide (PDF).
+* [Pico SDK C/C++](https://datasheets.raspberrypi.org/pico/raspberry-pi-pico-c-sdk.pdf) - The official Pico C/C++ SDK documentation (PDF).
+* [Pico SDK MicroPython](https://datasheets.raspberrypi.org/pico/raspberry-pi-pico-python-sdk.pdf) - The official MicroPython SDK documentation (PDF).
+* [Pico Doxygen](https://raspberrypi.github.io/pico-sdk-doxygen/index.html) - The official 'API level Doxygen documentation for the Raspberry Pi Pico'. Available as a micro-site.
+* [Pinout Diagram](https://datasheets.raspberrypi.org/pico/Pico-R3-A4-Pinout.pdf) - The official Pico pinout diagram (PDF).
+* [Fritzing Diagram](https://datasheets.raspberrypi.org/pico/Pico-R3-Fritzing.fzpz) - The official Pico Fritzing diagram. WARNING: Will attempt to download file from Raspberry Pi website (.fzpz file).
+* [Design Files](https://datasheets.raspberrypi.org/pico/RPi-Pico-R3-PUBLIC-20200119.zip) - The official Pico design files (.zip file). WARNING: Will attempt to download file from Raspberry Pi website.
+* [Pico Datasheet](https://datasheets.raspberrypi.org/pico/pico-datasheet.pdf) - The official Pico datasheet (PDF).
+* [RP2040 Datasheet](https://datasheets.raspberrypi.org/rp2040/rp2040-datasheet.pdf) - The official RP2040 datasheet (PDF).
+* [Hardware Design](https://datasheets.raspberrypi.org/rp2040/hardware-design-with-rp2040.pdf) - The official hardware design with RP2040 (PDF).
+
+## Software/Tools
+
+* [Pico SDK Repo](https://github.com/raspberrypi/pico-sdk) ⭐ 4,929 | 🐛 309 | 🌐 C | 📅 2026-08-13 - Official Raspberry Pi Pico SDK repository.
+* [Pico Examples](https://github.com/raspberrypi/pico-examples) ⭐ 3,880 | 🐛 150 | 🌐 C | 📅 2026-07-03 - Raspberry Pi Pico SDK examples.
+* [Resetting Pico Flash Memory](https://github.com/raspberrypi/pico-examples/blob/master/flash/nuke/nuke.c) ⭐ 3,880 | 🐛 150 | 🌐 C | 📅 2026-07-03 - 'There is no way to brick the board through software. However, there are some circumstances where you might want to make sure your Flash memory is empty.'
+* [Pimoroni Pico](https://github.com/pimoroni/pimoroni-pico) ⭐ 1,551 | 🐛 120 | 🌐 C | 📅 2026-08-12 - 'Libraries and examples to support Pimoroni Pico add-ons in C++ and MicroPython.'
+* [Picoprobe](https://github.com/raspberrypi/picoprobe) ⭐ 1,219 | 🐛 16 | 🌐 C | 📅 2026-07-14 - 'It is possible to use one Raspberry Pi Pico to debug another Pico. This is possible via picoprobe, an application that allows a Pico to act as a USB → SWD and UART converter.'
+* [Pico MicroPython Examples](https://github.com/raspberrypi/pico-micropython-examples) ⭐ 1,138 | 🐛 25 | 🌐 Python | 📅 2025-03-18 - Raspberry Pi Pico MicroPython examples.
+* [Picotool](https://github.com/raspberrypi/picotool) ⭐ 970 | 🐛 34 | 🌐 C++ | 📅 2026-08-12 - 'Picotool is a tool for inspecting RP2040 binaries, and interacting with RP2040 devices when they are in BOOTSEL mode.'
+* [Pico C++ Setup Script](https://github.com/raspberrypi/pico-setup/blob/master/pico_setup.sh) ⭐ 126 | 🐛 8 | 🌐 Shell | 📅 2026-08-06 - A BASH script for setting up the Pico C++ toolchain on your device.
+* [Pico-Stub](https://github.com/cpwood/Pico-Stub) ⭐ 32 | 🐛 5 | 🌐 Python | 📅 2021-05-03 - MicroPython stubs; 'allowing you to benefit from Python code linting and autocompletion in Visual Studio Code.'
+* [Thonny IDE](https://github.com/raspberrypi/thonny-pico) - Thonny IDE support for the Pico.
+
+## Resources
+
+### Blogs
+
+* [Official Pico Announcement](https://www.raspberrypi.org/blog/raspberry-pi-silicon-pico-now-on-sale/) - The official Raspberry Pi Pico annoucement.
+* [MicroPython Book](https://www.raspberrypi.org/blog/new-book-get-started-with-micropython-on-raspberry-pi-pico/) - New book available to help get you started with MicroPython on Raspberry Pi Pico.
+* [NeoPixel Dithering](https://www.raspberrypi.org/blog/neopixel-dithering-with-pico/) - HackSpace magazine look at NeoPixels with the Raspberry Pi Pico.
+* [Closer Look at RP2040](https://www.cnx-software.com/2021/01/27/a-closer-look-at-raspberry-pi-rp2040-programmable-ios-pio/) - A closer look at Raspberry Pi RP2040 programmable I/Os (PIOs).
+* [ML On Raspberry Pi Pico](https://www.arducam.com/raspberry-pi-pico-tensorflow-lite-micro-person-detection-arducam/) - Machine Learning on Raspberry Pi Pico with Tensorflow Lite Micro and Arducam.
+
+### Books
+
+* [MicroPython Pico](https://hackspace.raspberrypi.org/books/micropython-pico) - 'Get Started With MicroPython on Raspberry Pi Pico'.
+
+### Projects
+
+* [TensorFlow Lite Micro](https://github.com/raspberrypi/pico-tflmicro) ⭐ 748 | 🐛 8 | 🌐 C++ | 📅 2024-12-27 - An official port of the TensorFlow Lite Micro library for the Pico.
+* [Pico Solar System](https://github.com/dr-mod/pico-solar-system) ⭐ 308 | 🐛 1 | 🌐 Python | 📅 2023-08-20 - A miniature device depicting the relative position of the planets in Solar System.
+* [Pico Streamdeck](https://github.com/pjgpetecodes/pico-streamdeck) ⭐ 230 | 🐛 6 | 🌐 Python | 📅 2021-05-03 - OBS Controller using a Raspberry Pi Pico and CircuitPython.
+* [Rust Support Crate](https://github.com/devsnek/pio-rs) ⭐ 192 | 🐛 9 | 🌐 Rust | 📅 2026-07-30 - Rust support crate for Pico's PIO architecture.
+* [Pico LoRaWAN](https://github.com/sandeepmistry/pico-lorawan) ⭐ 167 | 🐛 5 | 🌐 C | 📅 2025-03-17 - Enable LoRaWAN communications on your Raspberry Pi Pico or any RP2040 based board.
+* [Buzzer Music](https://github.com/james1236/buzzer_music) ⭐ 109 | 🐛 4 | 🌐 Python | 📅 2024-10-27 - Raspberry Pi Pico / Micropython library to play music through one or more buzzers.
+* [Pico Lib for NeoPixels](https://github.com/benevpi/pico_python_ws2812b) ⭐ 89 | 🐛 3 | 🌐 Python | 📅 2021-11-08 - A Raspberry Pi Pico library for using NeoPixels (WS2812b LEDs).
+* [Pico Invaders](https://github.com/printnplay/Pico-MicroPython/blob/main/picoinvaders.py) ⭐ 64 | 🐛 7 | 🌐 Python | 📅 2022-07-07 - Space Invaders port for the Raspberry Pi Pico.
+* [Pico W Webserver Example](https://github.com/krzmaz/pico-w-webserver-example) ⭐ 64 | 🐛 9 | 🌐 C++ | 📅 2024-03-17 - Example implementation of a blazingly fast web server on Pico W using Pico C SDK.
+* [Pico WiFi Driver](https://github.com/myvobot/pi_pico_wifi_driver) ⭐ 49 | 🐛 2 | 🌐 Python | 📅 2021-12-09 - A simple driver using AT command to access WiFi on the Pico.
+* [Balloon Tracking](http://www.daveakerman.com/?p=2737) - Dave Akerman creates a Raspberry Pi Pico weather balloon tracking device. Code is available at <https://github.com/daveake/pico-tracker> ⭐ 48 | 🐛 1 | 🌐 C | 📅 2021-02-16
+* [Pico Tetris](https://github.com/rbirkby/picotetris) ⭐ 44 | 🐛 1 | 🌐 C++ | 📅 2021-01-25 - 'Tetris on a Raspberry Pi Pico mounted on a Pimoroni Pico Explorer.'
+* [picoLCD](https://github.com/zadi15/picoLCD) ⭐ 33 | 🐛 0 | 🌐 C | 📅 2021-03-16 - 'picoLCD is a collection of functions to make interfacing with HD44780 based LCD screens easier on the Raspberry Pi Pico.'
+* [Pico Effects](https://github.com/tuupola/pico_effects) ⭐ 29 | 🐛 0 | 🌐 C | 📅 2026-03-28 - Old school demo effects for Raspberry Pi Pico.
+* [Blindr](https://github.com/m12t/blindr) ⭐ 18 | 🐛 1 | 🌐 C | 📅 2023-04-02 - Automated window blinds that open at sunrise and close at sunset.
+* [morse4pico](https://github.com/slouchd/morse4pico) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2021-02-07 - Very simple Morse code script in MicroPython for the Raspberry Pi Pico.
+* [Pico Snake](https://github.com/Tohaker/pico-snake) ⭐ 4 | 🐛 0 | 🌐 C++ | 📅 2021-03-29 - Snake for the Raspberry Pi Pico, running on the Pimoroni Pico Explorer.
+* [Annoying Book Mark](https://github.com/rhipps/Annoying-Book-Mark) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2021-02-03 - A bookmark that counts the amount of time that has passed since you last opened your book.
+* [Pico Display Colour Change](https://github.com/shane-powell/pico-display-colour-change) ⭐ 1 | 🐛 0 | 🌐 C++ | 📅 2021-01-27 - 'A Pico app using Pimoroni's display pack.'
+* [Pico Bird](https://github.com/andreban/pico-bird) - A Flappy Bird implementation for the Raspberry Pi Pico and the Pimoroni Pico Display.
+
+### Tutorials
+
+* [Control an LED](https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico) - Official Raspberry Pi documentation for setting up the Pico. Then controlling an LED with MicroPython.
+
+### Videos
+
+* [Raspberry Pi Pico Launch](https://www.youtube.com/watch?v=o-tRJPCv0GA) - Raspberry Pi Foundation's Pico launch video.
+* [BBC Micro Emulation](https://www.youtube.com/watch?v=WaPJmCgseQw) - 'Full-speed high-fidelity BBC Micro emulation on a (slightly) overclocked Raspberry Pi Pico'
+* [Geerling Pico Review](https://www.youtube.com/watch?v=dUCgYXF01Do) - YouTuber Jeff Geerling reviews Raspberry Pi Pico.
+* [Hackster Pico Unboxing](https://www.youtube.com/watch?v=qHT9UR8MTrE) - Hackster.io partake in a recorded Raspberry Pi Pico unboxing.
+* [ETA PRIME Pico First Look](https://www.youtube.com/watch?v=IIBtAQQOZ90) - YouTuber ETA PRIME reviews Raspberry Pi Pico.
+
+***
+
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._

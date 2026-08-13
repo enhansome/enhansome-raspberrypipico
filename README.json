@@ -1,0 +1,433 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Pico SDK Repo",
+          "description": "Official Raspberry Pi Pico SDK repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T00:46:44Z",
+            "owner": "raspberrypi",
+            "repo": "pico-sdk",
+            "stars": 4929
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pico Examples",
+          "description": "Raspberry Pi Pico SDK examples.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-03T14:18:07Z",
+            "owner": "raspberrypi",
+            "repo": "pico-examples",
+            "stars": 3880
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Resetting Pico Flash Memory",
+          "description": "'There is no way to brick the board through software. However, there are some circumstances where you might want to make sure your Flash memory is empty.'",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-03T14:18:07Z",
+            "owner": "raspberrypi",
+            "repo": "pico-examples",
+            "stars": 3880
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pimoroni Pico",
+          "description": "'Libraries and examples to support Pimoroni Pico add-ons in C++ and MicroPython.'",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T11:20:41Z",
+            "owner": "pimoroni",
+            "repo": "pimoroni-pico",
+            "stars": 1551
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Picoprobe",
+          "description": "'It is possible to use one Raspberry Pi Pico to debug another Pico. This is possible via picoprobe, an application that allows a Pico to act as a USB → SWD and UART converter.'",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-14T17:36:49Z",
+            "owner": "raspberrypi",
+            "repo": "debugprobe",
+            "stars": 1219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pico MicroPython Examples",
+          "description": "Raspberry Pi Pico MicroPython examples.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-18T13:58:38Z",
+            "owner": "raspberrypi",
+            "repo": "pico-micropython-examples",
+            "stars": 1138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Picotool",
+          "description": "'Picotool is a tool for inspecting RP2040 binaries, and interacting with RP2040 devices when they are in BOOTSEL mode.'",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T11:36:26Z",
+            "owner": "raspberrypi",
+            "repo": "picotool",
+            "stars": 970
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pico C++ Setup Script",
+          "description": "A BASH script for setting up the Pico C++ toolchain on your device.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-06T09:34:30Z",
+            "owner": "raspberrypi",
+            "repo": "pico-setup",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pico-Stub",
+          "description": "MicroPython stubs; 'allowing you to benefit from Python code linting and autocompletion in Visual Studio Code.'",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-05-03T19:59:21Z",
+            "owner": "cpwood",
+            "repo": "Pico-Stub",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Thonny IDE",
+          "description": "Thonny IDE support for the Pico.",
+          "children": []
+        }
+      ],
+      "title": "Software/Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TensorFlow Lite Micro",
+          "description": "An official port of the TensorFlow Lite Micro library for the Pico.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-12-27T02:56:44Z",
+            "owner": "raspberrypi",
+            "repo": "pico-tflmicro",
+            "stars": 748
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pico Solar System",
+          "description": "A miniature device depicting the relative position of the planets in Solar System.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-20T20:14:51Z",
+            "owner": "dr-mod",
+            "repo": "pico-solar-system",
+            "stars": 308
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pico Streamdeck",
+          "description": "OBS Controller using a Raspberry Pi Pico and CircuitPython.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-05-03T13:40:13Z",
+            "owner": "pjgpetecodes",
+            "repo": "pico-streamdeck",
+            "stars": 230
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rust Support Crate",
+          "description": "Rust support crate for Pico's PIO architecture.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-30T13:56:22Z",
+            "owner": "rp-rs",
+            "repo": "pio-rs",
+            "stars": 192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pico LoRaWAN",
+          "description": "Enable LoRaWAN communications on your Raspberry Pi Pico or any RP2040 based board.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-03-17T13:36:23Z",
+            "owner": "ArmDeveloperEcosystem",
+            "repo": "lorawan-library-for-pico",
+            "stars": 167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Buzzer Music",
+          "description": "Raspberry Pi Pico / Micropython library to play music through one or more buzzers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-27T00:35:07Z",
+            "owner": "james1236",
+            "repo": "buzzer_music",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pico Lib for NeoPixels",
+          "description": "A Raspberry Pi Pico library for using NeoPixels (WS2812b LEDs).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-11-08T15:07:09Z",
+            "owner": "benevpi",
+            "repo": "pico_python_ws2812b",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pico Invaders",
+          "description": "Space Invaders port for the Raspberry Pi Pico.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-07T02:04:49Z",
+            "owner": "printnplay",
+            "repo": "Pico-MicroPython",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pico W Webserver Example",
+          "description": "Example implementation of a blazingly fast web server on Pico W using Pico C SDK.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-03-17T13:17:55Z",
+            "owner": "krzmaz",
+            "repo": "pico-w-webserver-example",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pico WiFi Driver",
+          "description": "A simple driver using AT command to access WiFi on the Pico.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-12-09T18:07:18Z",
+            "owner": "myvobot",
+            "repo": "pi_pico_wifi_driver",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Balloon Tracking",
+          "description": "Dave Akerman creates a Raspberry Pi Pico weather balloon tracking device. Code is available at https://github.com/daveake/pico-tracker",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-02-16T11:26:51Z",
+            "owner": "daveake",
+            "repo": "pico-tracker",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pico Tetris",
+          "description": "'Tetris on a Raspberry Pi Pico mounted on a Pimoroni Pico Explorer.'",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-01-25T19:38:45Z",
+            "owner": "rbirkby",
+            "repo": "picotetris",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "picoLCD",
+          "description": "'picoLCD is a collection of functions to make interfacing with HD44780 based LCD screens easier on the Raspberry Pi Pico.'",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-03-16T20:36:42Z",
+            "owner": "zadi15",
+            "repo": "picoLCD",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pico Effects",
+          "description": "Old school demo effects for Raspberry Pi Pico.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-03-28T20:59:05Z",
+            "owner": "tuupola",
+            "repo": "pico_effects",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blindr",
+          "description": "Automated window blinds that open at sunrise and close at sunset.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-04-02T02:01:46Z",
+            "owner": "m12t",
+            "repo": "blindr",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "morse4pico",
+          "description": "Very simple Morse code script in MicroPython for the Raspberry Pi Pico.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-02-07T01:25:19Z",
+            "owner": "slouchd",
+            "repo": "morse4pico",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pico Snake",
+          "description": "Snake for the Raspberry Pi Pico, running on the Pimoroni Pico Explorer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-03-29T19:48:29Z",
+            "owner": "Tohaker",
+            "repo": "pico-snake",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Annoying Book Mark",
+          "description": "A bookmark that counts the amount of time that has passed since you last opened your book.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-02-03T00:25:34Z",
+            "owner": "rhipps",
+            "repo": "Annoying-Book-Mark",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pico Display Colour Change",
+          "description": "'A Pico app using Pimoroni's display pack.'",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-01-27T13:45:26Z",
+            "owner": "shane-powell",
+            "repo": "pico-display-colour-change",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pico Bird",
+          "description": "A Flappy Bird implementation for the Raspberry Pi Pico and the Pimoroni Pico Display.",
+          "children": []
+        }
+      ],
+      "title": "Projects"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T08:44:19.983Z",
+    "original_repository": "slouchd/awesome-raspberrypipico",
+    "original_repository_sha": "22e9dafa37d670fdc607047cdf840c5afa4ae6b9",
+    "enhanced_repository": "enhansome/enhansome-raspberrypipico",
+    "enhanced_repository_description": null,
+    "title": "Raspberry Pi Pico Awesome List with stars"
+  }
+}
