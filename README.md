@@ -30,9 +30,9 @@ This is a Curation of Raspberry Pi Pico resources. The Raspberry Pi [Pico](https
 
 ## Software/Tools
 
-* [Pico SDK Repo](https://github.com/raspberrypi/pico-sdk) ⭐ 4,929 | 🐛 311 | 🌐 C | 📅 2026-08-13 - Official Raspberry Pi Pico SDK repository.
-* [Pico Examples](https://github.com/raspberrypi/pico-examples) ⭐ 3,881 | 🐛 150 | 🌐 C | 📅 2026-07-03 - Raspberry Pi Pico SDK examples.
-* [Resetting Pico Flash Memory](https://github.com/raspberrypi/pico-examples/blob/master/flash/nuke/nuke.c) ⭐ 3,881 | 🐛 150 | 🌐 C | 📅 2026-07-03 - 'There is no way to brick the board through software. However, there are some circumstances where you might want to make sure your Flash memory is empty.'
+* [Pico SDK Repo](https://github.com/raspberrypi/pico-sdk) ⭐ 4,930 | 🐛 318 | 🌐 C | 📅 2026-08-14 - Official Raspberry Pi Pico SDK repository.
+* [Pico Examples](https://github.com/raspberrypi/pico-examples) ⭐ 3,882 | 🐛 150 | 🌐 C | 📅 2026-07-03 - Raspberry Pi Pico SDK examples.
+* [Resetting Pico Flash Memory](https://github.com/raspberrypi/pico-examples/blob/master/flash/nuke/nuke.c) ⭐ 3,882 | 🐛 150 | 🌐 C | 📅 2026-07-03 - 'There is no way to brick the board through software. However, there are some circumstances where you might want to make sure your Flash memory is empty.'
 * [Pimoroni Pico](https://github.com/pimoroni/pimoroni-pico) ⭐ 1,552 | 🐛 120 | 🌐 C | 📅 2026-08-12 - 'Libraries and examples to support Pimoroni Pico add-ons in C++ and MicroPython.'
 * [Picoprobe](https://github.com/raspberrypi/picoprobe) ⭐ 1,220 | 🐛 16 | 🌐 C | 📅 2026-07-14 - 'It is possible to use one Raspberry Pi Pico to debug another Pico. This is possible via picoprobe, an application that allows a Pico to act as a USB → SWD and UART converter.'
 * [Pico MicroPython Examples](https://github.com/raspberrypi/pico-micropython-examples) ⭐ 1,138 | 🐛 25 | 🌐 Python | 📅 2025-03-18 - Raspberry Pi Pico MicroPython examples.
@@ -62,7 +62,7 @@ This is a Curation of Raspberry Pi Pico resources. The Raspberry Pi [Pico](https
 * [Pico Streamdeck](https://github.com/pjgpetecodes/pico-streamdeck) ⭐ 230 | 🐛 6 | 🌐 Python | 📅 2021-05-03 - OBS Controller using a Raspberry Pi Pico and CircuitPython.
 * [Rust Support Crate](https://github.com/devsnek/pio-rs) ⭐ 192 | 🐛 9 | 🌐 Rust | 📅 2026-07-30 - Rust support crate for Pico's PIO architecture.
 * [Pico LoRaWAN](https://github.com/sandeepmistry/pico-lorawan) ⭐ 167 | 🐛 5 | 🌐 C | 📅 2025-03-17 - Enable LoRaWAN communications on your Raspberry Pi Pico or any RP2040 based board.
-* [Buzzer Music](https://github.com/james1236/buzzer_music) ⭐ 109 | 🐛 4 | 🌐 Python | 📅 2024-10-27 - Raspberry Pi Pico / Micropython library to play music through one or more buzzers.
+* [Buzzer Music](https://github.com/james1236/buzzer_music) ⭐ 110 | 🐛 4 | 🌐 Python | 📅 2024-10-27 - Raspberry Pi Pico / Micropython library to play music through one or more buzzers.
 * [Pico Lib for NeoPixels](https://github.com/benevpi/pico_python_ws2812b) ⭐ 89 | 🐛 3 | 🌐 Python | 📅 2021-11-08 - A Raspberry Pi Pico library for using NeoPixels (WS2812b LEDs).
 * [Pico Invaders](https://github.com/printnplay/Pico-MicroPython/blob/main/picoinvaders.py) ⭐ 64 | 🐛 7 | 🌐 Python | 📅 2022-07-07 - Space Invaders port for the Raspberry Pi Pico.
 * [Pico W Webserver Example](https://github.com/krzmaz/pico-w-webserver-example) ⭐ 64 | 🐛 9 | 🌐 C++ | 📅 2024-03-17 - Example implementation of a blazingly fast web server on Pico W using Pico C SDK.
@@ -92,4 +92,4 @@ This is a Curation of Raspberry Pi Pico resources. The Raspberry Pi [Pico](https
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
