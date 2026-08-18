@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-16T13:56:40Z",
+            "last_commit": "2026-08-17T13:06:10Z",
             "owner": "raspberrypi",
             "repo": "pico-sdk",
-            "stars": 4933
+            "stars": 4931
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-07-03T14:18:07Z",
             "owner": "raspberrypi",
             "repo": "pico-examples",
-            "stars": 3884
+            "stars": 3883
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-07-03T14:18:07Z",
             "owner": "raspberrypi",
             "repo": "pico-examples",
-            "stars": 3884
+            "stars": 3883
           }
         },
         {
@@ -98,7 +98,7 @@
             "last_commit": "2026-08-13T13:22:05Z",
             "owner": "raspberrypi",
             "repo": "picotool",
-            "stars": 972
+            "stars": 974
           }
         },
         {
@@ -109,7 +109,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-06T09:34:30Z",
+            "last_commit": "2026-08-17T12:06:39Z",
             "owner": "raspberrypi",
             "repo": "pico-setup",
             "stars": 127
@@ -185,7 +185,7 @@
             "last_commit": "2021-05-03T13:40:13Z",
             "owner": "pjgpetecodes",
             "repo": "pico-streamdeck",
-            "stars": 230
+            "stars": 229
           }
         },
         {
@@ -423,7 +423,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T08:00:55.388Z",
+    "last_updated": "2026-08-18T07:54:19.355Z",
     "original_repository": "slouchd/awesome-raspberrypipico",
     "original_repository_sha": "22e9dafa37d670fdc607047cdf840c5afa4ae6b9",
     "enhanced_repository": "enhansome/enhansome-raspberrypipico",
