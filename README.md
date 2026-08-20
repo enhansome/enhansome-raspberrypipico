@@ -30,11 +30,11 @@ This is a Curation of Raspberry Pi Pico resources. The Raspberry Pi [Pico](https
 
 ## Software/Tools
 
-* [Pico SDK Repo](https://github.com/raspberrypi/pico-sdk) ⭐ 4,932 | 🐛 312 | 🌐 C | 📅 2026-08-19 - Official Raspberry Pi Pico SDK repository.
-* [Pico Examples](https://github.com/raspberrypi/pico-examples) ⭐ 3,883 | 🐛 151 | 🌐 C | 📅 2026-07-03 - Raspberry Pi Pico SDK examples.
-* [Resetting Pico Flash Memory](https://github.com/raspberrypi/pico-examples/blob/master/flash/nuke/nuke.c) ⭐ 3,883 | 🐛 151 | 🌐 C | 📅 2026-07-03 - 'There is no way to brick the board through software. However, there are some circumstances where you might want to make sure your Flash memory is empty.'
-* [Pimoroni Pico](https://github.com/pimoroni/pimoroni-pico) ⭐ 1,552 | 🐛 121 | 🌐 C | 📅 2026-08-19 - 'Libraries and examples to support Pimoroni Pico add-ons in C++ and MicroPython.'
-* [Picoprobe](https://github.com/raspberrypi/picoprobe) ⭐ 1,222 | 🐛 16 | 🌐 C | 📅 2026-07-14 - 'It is possible to use one Raspberry Pi Pico to debug another Pico. This is possible via picoprobe, an application that allows a Pico to act as a USB → SWD and UART converter.'
+* [Pico SDK Repo](https://github.com/raspberrypi/pico-sdk) ⭐ 4,932 | 🐛 303 | 🌐 C | 📅 2026-08-20 - Official Raspberry Pi Pico SDK repository.
+* [Pico Examples](https://github.com/raspberrypi/pico-examples) ⭐ 3,885 | 🐛 151 | 🌐 C | 📅 2026-07-03 - Raspberry Pi Pico SDK examples.
+* [Resetting Pico Flash Memory](https://github.com/raspberrypi/pico-examples/blob/master/flash/nuke/nuke.c) ⭐ 3,885 | 🐛 151 | 🌐 C | 📅 2026-07-03 - 'There is no way to brick the board through software. However, there are some circumstances where you might want to make sure your Flash memory is empty.'
+* [Pimoroni Pico](https://github.com/pimoroni/pimoroni-pico) ⭐ 1,553 | 🐛 121 | 🌐 C | 📅 2026-08-19 - 'Libraries and examples to support Pimoroni Pico add-ons in C++ and MicroPython.'
+* [Picoprobe](https://github.com/raspberrypi/picoprobe) ⭐ 1,221 | 🐛 16 | 🌐 C | 📅 2026-07-14 - 'It is possible to use one Raspberry Pi Pico to debug another Pico. This is possible via picoprobe, an application that allows a Pico to act as a USB → SWD and UART converter.'
 * [Pico MicroPython Examples](https://github.com/raspberrypi/pico-micropython-examples) ⭐ 1,138 | 🐛 25 | 🌐 Python | 📅 2025-03-18 - Raspberry Pi Pico MicroPython examples.
 * [Picotool](https://github.com/raspberrypi/picotool) ⭐ 975 | 🐛 30 | 🌐 C++ | 📅 2026-08-13 - 'Picotool is a tool for inspecting RP2040 binaries, and interacting with RP2040 devices when they are in BOOTSEL mode.'
 * [Pico C++ Setup Script](https://github.com/raspberrypi/pico-setup/blob/master/pico_setup.sh) ⭐ 127 | 🐛 7 | 🌐 Shell | 📅 2026-08-17 - A BASH script for setting up the Pico C++ toolchain on your device.
@@ -57,7 +57,7 @@ This is a Curation of Raspberry Pi Pico resources. The Raspberry Pi [Pico](https
 
 ### Projects
 
-* [TensorFlow Lite Micro](https://github.com/raspberrypi/pico-tflmicro) ⭐ 748 | 🐛 8 | 🌐 C++ | 📅 2024-12-27 - An official port of the TensorFlow Lite Micro library for the Pico.
+* [TensorFlow Lite Micro](https://github.com/raspberrypi/pico-tflmicro) ⭐ 749 | 🐛 8 | 🌐 C++ | 📅 2024-12-27 - An official port of the TensorFlow Lite Micro library for the Pico.
 * [Pico Solar System](https://github.com/dr-mod/pico-solar-system) ⭐ 308 | 🐛 1 | 🌐 Python | 📅 2023-08-20 - A miniature device depicting the relative position of the planets in Solar System.
 * [Pico Streamdeck](https://github.com/pjgpetecodes/pico-streamdeck) ⭐ 229 | 🐛 6 | 🌐 Python | 📅 2021-05-03 - OBS Controller using a Raspberry Pi Pico and CircuitPython.
 * [Rust Support Crate](https://github.com/devsnek/pio-rs) ⭐ 193 | 🐛 10 | 🌐 Rust | 📅 2026-07-30 - Rust support crate for Pico's PIO architecture.
@@ -92,4 +92,4 @@ This is a Curation of Raspberry Pi Pico resources. The Raspberry Pi [Pico](https
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
