@@ -12,10 +12,10 @@
             "archived": false,
             "id": 331380723,
             "language": "C",
-            "last_commit": "2026-08-20T02:47:43Z",
+            "last_commit": "2026-08-20T23:46:28Z",
             "owner": "raspberrypi",
             "repo": "pico-sdk",
-            "stars": 4932
+            "stars": 4933
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-07-03T14:18:07Z",
             "owner": "raspberrypi",
             "repo": "pico-examples",
-            "stars": 3885
+            "stars": 3886
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-07-03T14:18:07Z",
             "owner": "raspberrypi",
             "repo": "pico-examples",
-            "stars": 3885
+            "stars": 3886
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-07-14T17:36:49Z",
             "owner": "raspberrypi",
             "repo": "debugprobe",
-            "stars": 1221
+            "stars": 1224
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-13T13:22:05Z",
             "owner": "raspberrypi",
             "repo": "picotool",
-            "stars": 975
+            "stars": 974
           }
         },
         {
@@ -441,7 +441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T07:57:29.878Z",
+    "last_updated": "2026-08-21T07:57:45.522Z",
     "original_repository": "slouchd/awesome-raspberrypipico",
     "original_repository_id": 333207791,
     "original_repository_sha": "22e9dafa37d670fdc607047cdf840c5afa4ae6b9",
