@@ -75,7 +75,7 @@
             "last_commit": "2026-07-14T17:36:49Z",
             "owner": "raspberrypi",
             "repo": "debugprobe",
-            "stars": 1224
+            "stars": 1228
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-13T13:22:05Z",
             "owner": "raspberrypi",
             "repo": "picotool",
-            "stars": 977
+            "stars": 979
           }
         },
         {
@@ -293,7 +293,7 @@
                 "last_commit": "2021-12-09T18:07:18Z",
                 "owner": "myvobot",
                 "repo": "pi_pico_wifi_driver",
-                "stars": 49
+                "stars": 50
               }
             },
             {
@@ -441,7 +441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T07:45:59.824Z",
+    "last_updated": "2026-08-23T07:47:55.201Z",
     "original_repository": "slouchd/awesome-raspberrypipico",
     "original_repository_id": 333207791,
     "original_repository_sha": "22e9dafa37d670fdc607047cdf840c5afa4ae6b9",

@@ -34,9 +34,9 @@ This is a Curation of Raspberry Pi Pico resources. The Raspberry Pi [Pico](https
 * [Pico Examples](https://github.com/raspberrypi/pico-examples) ⭐ 3,887 | 🐛 152 | 🌐 C | 📅 2026-07-03 - Raspberry Pi Pico SDK examples.
 * [Resetting Pico Flash Memory](https://github.com/raspberrypi/pico-examples/blob/master/flash/nuke/nuke.c) ⭐ 3,887 | 🐛 152 | 🌐 C | 📅 2026-07-03 - 'There is no way to brick the board through software. However, there are some circumstances where you might want to make sure your Flash memory is empty.'
 * [Pimoroni Pico](https://github.com/pimoroni/pimoroni-pico) ⭐ 1,553 | 🐛 121 | 🌐 C | 📅 2026-08-19 - 'Libraries and examples to support Pimoroni Pico add-ons in C++ and MicroPython.'
-* [Picoprobe](https://github.com/raspberrypi/picoprobe) ⭐ 1,224 | 🐛 16 | 🌐 C | 📅 2026-07-14 - 'It is possible to use one Raspberry Pi Pico to debug another Pico. This is possible via picoprobe, an application that allows a Pico to act as a USB → SWD and UART converter.'
+* [Picoprobe](https://github.com/raspberrypi/picoprobe) ⭐ 1,228 | 🐛 16 | 🌐 C | 📅 2026-07-14 - 'It is possible to use one Raspberry Pi Pico to debug another Pico. This is possible via picoprobe, an application that allows a Pico to act as a USB → SWD and UART converter.'
 * [Pico MicroPython Examples](https://github.com/raspberrypi/pico-micropython-examples) ⭐ 1,139 | 🐛 25 | 🌐 Python | 📅 2025-03-18 - Raspberry Pi Pico MicroPython examples.
-* [Picotool](https://github.com/raspberrypi/picotool) ⭐ 977 | 🐛 30 | 🌐 C++ | 📅 2026-08-13 - 'Picotool is a tool for inspecting RP2040 binaries, and interacting with RP2040 devices when they are in BOOTSEL mode.'
+* [Picotool](https://github.com/raspberrypi/picotool) ⭐ 979 | 🐛 30 | 🌐 C++ | 📅 2026-08-13 - 'Picotool is a tool for inspecting RP2040 binaries, and interacting with RP2040 devices when they are in BOOTSEL mode.'
 * [Pico C++ Setup Script](https://github.com/raspberrypi/pico-setup/blob/master/pico_setup.sh) ⭐ 127 | 🐛 7 | 🌐 Shell | 📅 2026-08-17 - A BASH script for setting up the Pico C++ toolchain on your device.
 * [Pico-Stub](https://github.com/cpwood/Pico-Stub) ⭐ 32 | 🐛 5 | 🌐 Python | 📅 2021-05-03 - MicroPython stubs; 'allowing you to benefit from Python code linting and autocompletion in Visual Studio Code.'
 * [Thonny IDE](https://github.com/raspberrypi/thonny-pico) - Thonny IDE support for the Pico.
@@ -66,7 +66,7 @@ This is a Curation of Raspberry Pi Pico resources. The Raspberry Pi [Pico](https
 * [Pico Lib for NeoPixels](https://github.com/benevpi/pico_python_ws2812b) ⭐ 89 | 🐛 3 | 🌐 Python | 📅 2021-11-08 - A Raspberry Pi Pico library for using NeoPixels (WS2812b LEDs).
 * [Pico Invaders](https://github.com/printnplay/Pico-MicroPython/blob/main/picoinvaders.py) ⭐ 64 | 🐛 7 | 🌐 Python | 📅 2022-07-07 - Space Invaders port for the Raspberry Pi Pico.
 * [Pico W Webserver Example](https://github.com/krzmaz/pico-w-webserver-example) ⭐ 64 | 🐛 9 | 🌐 C++ | 📅 2024-03-17 - Example implementation of a blazingly fast web server on Pico W using Pico C SDK.
-* [Pico WiFi Driver](https://github.com/myvobot/pi_pico_wifi_driver) ⭐ 49 | 🐛 2 | 🌐 Python | 📅 2021-12-09 - A simple driver using AT command to access WiFi on the Pico.
+* [Pico WiFi Driver](https://github.com/myvobot/pi_pico_wifi_driver) ⭐ 50 | 🐛 2 | 🌐 Python | 📅 2021-12-09 - A simple driver using AT command to access WiFi on the Pico.
 * [Balloon Tracking](http://www.daveakerman.com/?p=2737) - Dave Akerman creates a Raspberry Pi Pico weather balloon tracking device. Code is available at <https://github.com/daveake/pico-tracker> ⭐ 48 | 🐛 1 | 🌐 C | 📅 2021-02-16
 * [Pico Tetris](https://github.com/rbirkby/picotetris) ⭐ 44 | 🐛 1 | 🌐 C++ | 📅 2021-01-25 - 'Tetris on a Raspberry Pi Pico mounted on a Pimoroni Pico Explorer.'
 * [picoLCD](https://github.com/zadi15/picoLCD) ⭐ 33 | 🐛 0 | 🌐 C | 📅 2021-03-16 - 'picoLCD is a collection of functions to make interfacing with HD44780 based LCD screens easier on the Raspberry Pi Pico.'
@@ -92,4 +92,4 @@ This is a Curation of Raspberry Pi Pico resources. The Raspberry Pi [Pico](https
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
