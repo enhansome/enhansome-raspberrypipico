@@ -15,8 +15,9 @@
             "last_commit": "2026-08-24T13:42:50Z",
             "owner": "raspberrypi",
             "repo": "pico-sdk",
-            "stars": 4941
-          }
+            "stars": 4942
+          },
+          "first_seen": "2026-08-28T19:26:44.034Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-07-03T14:18:07Z",
             "owner": "raspberrypi",
             "repo": "pico-examples",
-            "stars": 3896
-          }
+            "stars": 3897
+          },
+          "first_seen": "2026-08-28T19:26:44.034Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2026-07-03T14:18:07Z",
             "owner": "raspberrypi",
             "repo": "pico-examples",
-            "stars": 3896
-          }
+            "stars": 3897
+          },
+          "first_seen": "2026-08-28T19:26:44.034Z"
         },
         {
           "node_type": "item",
@@ -57,11 +60,12 @@
             "archived": false,
             "id": 329933755,
             "language": "C",
-            "last_commit": "2026-08-27T18:09:34Z",
+            "last_commit": "2026-08-28T10:07:27Z",
             "owner": "pimoroni",
             "repo": "pimoroni-pico",
             "stars": 1554
-          }
+          },
+          "first_seen": "2026-08-28T19:26:44.034Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "raspberrypi",
             "repo": "debugprobe",
             "stars": 1232
-          }
+          },
+          "first_seen": "2026-08-28T19:26:44.034Z"
         },
         {
           "node_type": "item",
@@ -90,8 +95,9 @@
             "last_commit": "2025-03-18T13:58:38Z",
             "owner": "raspberrypi",
             "repo": "pico-micropython-examples",
-            "stars": 1139
-          }
+            "stars": 1140
+          },
+          "first_seen": "2026-08-28T19:26:44.034Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "raspberrypi",
             "repo": "picotool",
             "stars": 984
-          }
+          },
+          "first_seen": "2026-08-28T19:26:44.034Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "raspberrypi",
             "repo": "pico-setup",
             "stars": 127
-          }
+          },
+          "first_seen": "2026-08-28T19:26:44.034Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "cpwood",
             "repo": "Pico-Stub",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T19:26:44.034Z"
         }
       ],
       "title": "Software/Tools"
@@ -159,7 +168,8 @@
                 "owner": "raspberrypi",
                 "repo": "pico-tflmicro",
                 "stars": 749
-              }
+              },
+              "first_seen": "2026-08-28T19:26:44.034Z"
             },
             {
               "node_type": "item",
@@ -174,7 +184,8 @@
                 "owner": "dr-mod",
                 "repo": "pico-solar-system",
                 "stars": 308
-              }
+              },
+              "first_seen": "2026-08-28T19:26:44.034Z"
             },
             {
               "node_type": "item",
@@ -189,7 +200,8 @@
                 "owner": "pjgpetecodes",
                 "repo": "pico-streamdeck",
                 "stars": 229
-              }
+              },
+              "first_seen": "2026-08-28T19:26:44.034Z"
             },
             {
               "node_type": "item",
@@ -204,7 +216,8 @@
                 "owner": "rp-rs",
                 "repo": "pio-rs",
                 "stars": 193
-              }
+              },
+              "first_seen": "2026-08-28T19:26:44.034Z"
             },
             {
               "node_type": "item",
@@ -219,7 +232,8 @@
                 "owner": "ArmDeveloperEcosystem",
                 "repo": "lorawan-library-for-pico",
                 "stars": 167
-              }
+              },
+              "first_seen": "2026-08-28T19:26:44.034Z"
             },
             {
               "node_type": "item",
@@ -234,7 +248,8 @@
                 "owner": "james1236",
                 "repo": "buzzer_music",
                 "stars": 111
-              }
+              },
+              "first_seen": "2026-08-28T19:26:44.034Z"
             },
             {
               "node_type": "item",
@@ -249,7 +264,8 @@
                 "owner": "benevpi",
                 "repo": "pico_python_ws2812b",
                 "stars": 89
-              }
+              },
+              "first_seen": "2026-08-28T19:26:44.034Z"
             },
             {
               "node_type": "item",
@@ -264,7 +280,8 @@
                 "owner": "printnplay",
                 "repo": "Pico-MicroPython",
                 "stars": 64
-              }
+              },
+              "first_seen": "2026-08-28T19:26:44.034Z"
             },
             {
               "node_type": "item",
@@ -279,7 +296,8 @@
                 "owner": "krzmaz",
                 "repo": "pico-w-webserver-example",
                 "stars": 64
-              }
+              },
+              "first_seen": "2026-08-28T19:26:44.034Z"
             },
             {
               "node_type": "item",
@@ -294,7 +312,8 @@
                 "owner": "myvobot",
                 "repo": "pi_pico_wifi_driver",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T19:26:44.034Z"
             },
             {
               "node_type": "item",
@@ -309,7 +328,8 @@
                 "owner": "daveake",
                 "repo": "pico-tracker",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T19:26:44.034Z"
             },
             {
               "node_type": "item",
@@ -324,7 +344,8 @@
                 "owner": "rbirkby",
                 "repo": "picotetris",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T19:26:44.034Z"
             },
             {
               "node_type": "item",
@@ -339,7 +360,8 @@
                 "owner": "zadi15",
                 "repo": "picoLCD",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T19:26:44.034Z"
             },
             {
               "node_type": "item",
@@ -354,7 +376,8 @@
                 "owner": "tuupola",
                 "repo": "pico_effects",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T19:26:44.034Z"
             },
             {
               "node_type": "item",
@@ -369,7 +392,8 @@
                 "owner": "m12t",
                 "repo": "blindr",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T19:26:44.034Z"
             },
             {
               "node_type": "item",
@@ -384,7 +408,8 @@
                 "owner": "slouchd",
                 "repo": "morse4pico",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T19:26:44.034Z"
             },
             {
               "node_type": "item",
@@ -399,7 +424,8 @@
                 "owner": "Tohaker",
                 "repo": "pico-snake",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T19:26:44.034Z"
             },
             {
               "node_type": "item",
@@ -414,7 +440,8 @@
                 "owner": "rhipps",
                 "repo": "Annoying-Book-Mark",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T19:26:44.034Z"
             },
             {
               "node_type": "item",
@@ -429,7 +456,8 @@
                 "owner": "shane-powell",
                 "repo": "pico-display-colour-change",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T19:26:44.034Z"
             }
           ],
           "description": null,
@@ -441,7 +469,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T18:17:42.256Z",
+    "last_updated": "2026-08-28T19:26:44.034Z",
     "original_repository_info": {
       "archived": false,
       "id": 333207791,
