@@ -15,11 +15,11 @@
             "id": 331380723,
             "language": "C",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-28T21:13:43Z",
-            "open_issues": 301,
+            "last_commit": "2026-08-29T23:32:04Z",
+            "open_issues": 304,
             "owner": "raspberrypi",
             "repo": "pico-sdk",
-            "stars": 4944,
+            "stars": 4947,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:44.034Z"
@@ -40,7 +40,7 @@
             "open_issues": 153,
             "owner": "raspberrypi",
             "repo": "pico-examples",
-            "stars": 3898,
+            "stars": 3900,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:44.034Z"
@@ -61,7 +61,7 @@
             "open_issues": 153,
             "owner": "raspberrypi",
             "repo": "pico-examples",
-            "stars": 3898,
+            "stars": 3900,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:44.034Z"
@@ -150,7 +150,7 @@
             "open_issues": 30,
             "owner": "raspberrypi",
             "repo": "picotool",
-            "stars": 984,
+            "stars": 985,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:44.034Z"
@@ -696,7 +696,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T13:10:17.560Z",
+    "last_updated": "2026-08-30T12:54:21.548Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curation of Raspberry Pi Pico resources",
