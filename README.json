@@ -15,11 +15,11 @@
             "id": 331380723,
             "language": "C",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-01T21:52:15Z",
-            "open_issues": 301,
+            "last_commit": "2026-09-02T18:57:16Z",
+            "open_issues": 299,
             "owner": "raspberrypi",
             "repo": "pico-sdk",
-            "stars": 4949,
+            "stars": 4952,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:44.034Z"
@@ -36,8 +36,8 @@
             "id": 331381105,
             "language": "C",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-01T21:44:43Z",
-            "open_issues": 155,
+            "last_commit": "2026-09-02T19:00:32Z",
+            "open_issues": 154,
             "owner": "raspberrypi",
             "repo": "pico-examples",
             "stars": 3901,
@@ -57,8 +57,8 @@
             "id": 331381105,
             "language": "C",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-01T21:44:43Z",
-            "open_issues": 155,
+            "last_commit": "2026-09-02T19:00:32Z",
+            "open_issues": 154,
             "owner": "raspberrypi",
             "repo": "pico-examples",
             "stars": 3901,
@@ -78,8 +78,8 @@
             "id": 329933755,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-09-02T10:15:35Z",
-            "open_issues": 95,
+            "last_commit": "2026-09-03T10:41:23Z",
+            "open_issues": 96,
             "owner": "pimoroni",
             "repo": "pimoroni-pico",
             "stars": 1554,
@@ -105,7 +105,7 @@
             "open_issues": 16,
             "owner": "raspberrypi",
             "repo": "debugprobe",
-            "stars": 1233,
+            "stars": 1235,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:44.034Z"
@@ -146,11 +146,11 @@
             "id": 331380867,
             "language": "C++",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-13T13:22:05Z",
+            "last_commit": "2026-09-02T13:05:15Z",
             "open_issues": 30,
             "owner": "raspberrypi",
             "repo": "picotool",
-            "stars": 984,
+            "stars": 985,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:44.034Z"
@@ -290,7 +290,7 @@
                 "open_issues": 7,
                 "owner": "rp-rs",
                 "repo": "pio-rs",
-                "stars": 193,
+                "stars": 194,
                 "topics": [
                   "assembler",
                   "raspberry-pi-pico",
@@ -696,7 +696,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T12:06:55.235Z",
+    "last_updated": "2026-09-03T12:06:13.039Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curation of Raspberry Pi Pico resources",
