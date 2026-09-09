@@ -15,8 +15,8 @@
             "id": 331380723,
             "language": "C",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-07T11:30:50Z",
-            "open_issues": 310,
+            "last_commit": "2026-09-09T11:03:31Z",
+            "open_issues": 313,
             "owner": "raspberrypi",
             "repo": "pico-sdk",
             "stars": 4954,
@@ -82,7 +82,7 @@
             "open_issues": 97,
             "owner": "pimoroni",
             "repo": "pimoroni-pico",
-            "stars": 1556,
+            "stars": 1558,
             "topics": [
               "raspberry-pi-pico"
             ]
@@ -105,7 +105,7 @@
             "open_issues": 16,
             "owner": "raspberrypi",
             "repo": "debugprobe",
-            "stars": 1240,
+            "stars": 1243,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:44.034Z"
@@ -150,7 +150,7 @@
             "open_issues": 26,
             "owner": "raspberrypi",
             "repo": "picotool",
-            "stars": 986,
+            "stars": 985,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:44.034Z"
@@ -513,7 +513,7 @@
                 "open_issues": 0,
                 "owner": "zadi15",
                 "repo": "picoLCD",
-                "stars": 33,
+                "stars": 32,
                 "topics": [
                   "c",
                   "lcd",
@@ -696,7 +696,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T12:08:49.030Z",
+    "last_updated": "2026-09-09T12:20:41.559Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curation of Raspberry Pi Pico resources",
