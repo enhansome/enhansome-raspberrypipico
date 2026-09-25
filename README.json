@@ -15,11 +15,11 @@
             "id": 331380723,
             "language": "C",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-23T15:33:29Z",
-            "open_issues": 324,
+            "last_commit": "2026-09-25T11:33:34Z",
+            "open_issues": 328,
             "owner": "raspberrypi",
             "repo": "pico-sdk",
-            "stars": 4971,
+            "stars": 4972,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:44.034Z"
@@ -36,8 +36,8 @@
             "id": 331381105,
             "language": "C",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-23T16:41:03Z",
-            "open_issues": 154,
+            "last_commit": "2026-09-25T10:44:10Z",
+            "open_issues": 157,
             "owner": "raspberrypi",
             "repo": "pico-examples",
             "stars": 3918,
@@ -57,8 +57,8 @@
             "id": 331381105,
             "language": "C",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-23T16:41:03Z",
-            "open_issues": 154,
+            "last_commit": "2026-09-25T10:44:10Z",
+            "open_issues": 157,
             "owner": "raspberrypi",
             "repo": "pico-examples",
             "stars": 3918,
@@ -105,7 +105,7 @@
             "open_issues": 19,
             "owner": "raspberrypi",
             "repo": "debugprobe",
-            "stars": 1252,
+            "stars": 1253,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:44.034Z"
@@ -126,7 +126,7 @@
             "open_issues": 25,
             "owner": "raspberrypi",
             "repo": "pico-micropython-examples",
-            "stars": 1145,
+            "stars": 1146,
             "topics": [
               "raspberry-pi",
               "raspberry-pi-pico"
@@ -150,7 +150,7 @@
             "open_issues": 28,
             "owner": "raspberrypi",
             "repo": "picotool",
-            "stars": 1002,
+            "stars": 1003,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:44.034Z"
@@ -696,7 +696,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T12:43:49.924Z",
+    "last_updated": "2026-09-25T12:46:50.387Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curation of Raspberry Pi Pico resources",
