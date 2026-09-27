@@ -30,9 +30,9 @@ This is a Curation of Raspberry Pi Pico resources. The Raspberry Pi [Pico](https
 
 ## Software/Tools
 
-* [Pico SDK Repo](https://github.com/raspberrypi/pico-sdk) ⭐ 4,972 | 🐛 328 | 🌐 C | 📅 2026-09-25 - Official Raspberry Pi Pico SDK repository.
-* [Pico Examples](https://github.com/raspberrypi/pico-examples) ⭐ 3,917 | 🐛 158 | 🌐 C | 📅 2026-09-25 - Raspberry Pi Pico SDK examples.
-* [Resetting Pico Flash Memory](https://github.com/raspberrypi/pico-examples/blob/master/flash/nuke/nuke.c) ⭐ 3,917 | 🐛 158 | 🌐 C | 📅 2026-09-25 - 'There is no way to brick the board through software. However, there are some circumstances where you might want to make sure your Flash memory is empty.'
+* [Pico SDK Repo](https://github.com/raspberrypi/pico-sdk) ⭐ 4,974 | 🐛 328 | 🌐 C | 📅 2026-09-26 - Official Raspberry Pi Pico SDK repository.
+* [Pico Examples](https://github.com/raspberrypi/pico-examples) ⭐ 3,918 | 🐛 158 | 🌐 C | 📅 2026-09-25 - Raspberry Pi Pico SDK examples.
+* [Resetting Pico Flash Memory](https://github.com/raspberrypi/pico-examples/blob/master/flash/nuke/nuke.c) ⭐ 3,918 | 🐛 158 | 🌐 C | 📅 2026-09-25 - 'There is no way to brick the board through software. However, there are some circumstances where you might want to make sure your Flash memory is empty.'
 * [Pimoroni Pico](https://github.com/pimoroni/pimoroni-pico) ⭐ 1,565 | 🐛 97 | 🌐 C | 📅 2026-09-25 - 'Libraries and examples to support Pimoroni Pico add-ons in C++ and MicroPython.'
 * [Picoprobe](https://github.com/raspberrypi/picoprobe) ⭐ 1,253 | 🐛 19 | 🌐 C | 📅 2026-07-14 - 'It is possible to use one Raspberry Pi Pico to debug another Pico. This is possible via picoprobe, an application that allows a Pico to act as a USB → SWD and UART converter.'
 * [Pico MicroPython Examples](https://github.com/raspberrypi/pico-micropython-examples) ⭐ 1,147 | 🐛 25 | 🌐 Python | 📅 2025-03-18 - Raspberry Pi Pico MicroPython examples.
@@ -92,4 +92,4 @@ This is a Curation of Raspberry Pi Pico resources. The Raspberry Pi [Pico](https
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
