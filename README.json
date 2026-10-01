@@ -15,8 +15,8 @@
             "id": 331380723,
             "language": "C",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-30T13:38:23Z",
-            "open_issues": 314,
+            "last_commit": "2026-10-01T14:18:13Z",
+            "open_issues": 320,
             "owner": "raspberrypi",
             "repo": "pico-sdk",
             "stars": 4981,
@@ -36,11 +36,11 @@
             "id": 331381105,
             "language": "C",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-30T11:57:19Z",
+            "last_commit": "2026-09-30T15:49:29Z",
             "open_issues": 158,
             "owner": "raspberrypi",
             "repo": "pico-examples",
-            "stars": 3922,
+            "stars": 3923,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:44.034Z"
@@ -57,11 +57,11 @@
             "id": 331381105,
             "language": "C",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-30T11:57:19Z",
+            "last_commit": "2026-09-30T15:49:29Z",
             "open_issues": 158,
             "owner": "raspberrypi",
             "repo": "pico-examples",
-            "stars": 3922,
+            "stars": 3923,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:44.034Z"
@@ -82,7 +82,7 @@
             "open_issues": 97,
             "owner": "pimoroni",
             "repo": "pimoroni-pico",
-            "stars": 1565,
+            "stars": 1566,
             "topics": [
               "raspberry-pi-pico"
             ]
@@ -146,7 +146,7 @@
             "id": 331380867,
             "language": "C++",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-30T13:34:08Z",
+            "last_commit": "2026-09-30T17:39:55Z",
             "open_issues": 26,
             "owner": "raspberrypi",
             "repo": "picotool",
@@ -696,7 +696,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T13:44:37.479Z",
+    "last_updated": "2026-10-01T14:28:24.060Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curation of Raspberry Pi Pico resources",
