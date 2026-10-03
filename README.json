@@ -37,10 +37,10 @@
             "language": "C",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-30T15:49:29Z",
-            "open_issues": 158,
+            "open_issues": 159,
             "owner": "raspberrypi",
             "repo": "pico-examples",
-            "stars": 3924,
+            "stars": 3923,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:44.034Z"
@@ -58,10 +58,10 @@
             "language": "C",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-30T15:49:29Z",
-            "open_issues": 158,
+            "open_issues": 159,
             "owner": "raspberrypi",
             "repo": "pico-examples",
-            "stars": 3924,
+            "stars": 3923,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:44.034Z"
@@ -105,7 +105,7 @@
             "open_issues": 16,
             "owner": "raspberrypi",
             "repo": "debugprobe",
-            "stars": 1253,
+            "stars": 1254,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:44.034Z"
@@ -392,7 +392,7 @@
                 "open_issues": 7,
                 "owner": "printnplay",
                 "repo": "Pico-MicroPython",
-                "stars": 64,
+                "stars": 65,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:26:44.034Z"
@@ -696,7 +696,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T13:52:30.280Z",
+    "last_updated": "2026-10-03T05:04:29.201Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curation of Raspberry Pi Pico resources",
