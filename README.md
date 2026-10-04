@@ -30,11 +30,11 @@ This is a Curation of Raspberry Pi Pico resources. The Raspberry Pi [Pico](https
 
 ## Software/Tools
 
-* [Pico SDK Repo](https://github.com/raspberrypi/pico-sdk) ⭐ 4,984 | 🐛 323 | 🌐 C | 📅 2026-10-01 - Official Raspberry Pi Pico SDK repository.
-* [Pico Examples](https://github.com/raspberrypi/pico-examples) ⭐ 3,923 | 🐛 159 | 🌐 C | 📅 2026-09-30 - Raspberry Pi Pico SDK examples.
-* [Resetting Pico Flash Memory](https://github.com/raspberrypi/pico-examples/blob/master/flash/nuke/nuke.c) ⭐ 3,923 | 🐛 159 | 🌐 C | 📅 2026-09-30 - 'There is no way to brick the board through software. However, there are some circumstances where you might want to make sure your Flash memory is empty.'
+* [Pico SDK Repo](https://github.com/raspberrypi/pico-sdk) ⭐ 4,986 | 🐛 323 | 🌐 C | 📅 2026-10-01 - Official Raspberry Pi Pico SDK repository.
+* [Pico Examples](https://github.com/raspberrypi/pico-examples) ⭐ 3,924 | 🐛 159 | 🌐 C | 📅 2026-09-30 - Raspberry Pi Pico SDK examples.
+* [Resetting Pico Flash Memory](https://github.com/raspberrypi/pico-examples/blob/master/flash/nuke/nuke.c) ⭐ 3,924 | 🐛 159 | 🌐 C | 📅 2026-09-30 - 'There is no way to brick the board through software. However, there are some circumstances where you might want to make sure your Flash memory is empty.'
 * [Pimoroni Pico](https://github.com/pimoroni/pimoroni-pico) ⭐ 1,566 | 🐛 97 | 🌐 C | 📅 2026-09-28 - 'Libraries and examples to support Pimoroni Pico add-ons in C++ and MicroPython.'
-* [Picoprobe](https://github.com/raspberrypi/picoprobe) ⭐ 1,254 | 🐛 16 | 🌐 C | 📅 2026-10-02 - 'It is possible to use one Raspberry Pi Pico to debug another Pico. This is possible via picoprobe, an application that allows a Pico to act as a USB → SWD and UART converter.'
+* [Picoprobe](https://github.com/raspberrypi/picoprobe) ⭐ 1,255 | 🐛 16 | 🌐 C | 📅 2026-10-02 - 'It is possible to use one Raspberry Pi Pico to debug another Pico. This is possible via picoprobe, an application that allows a Pico to act as a USB → SWD and UART converter.'
 * [Pico MicroPython Examples](https://github.com/raspberrypi/pico-micropython-examples) ⭐ 1,151 | 🐛 25 | 🌐 Python | 📅 2025-03-18 - Raspberry Pi Pico MicroPython examples.
 * [Picotool](https://github.com/raspberrypi/picotool) ⭐ 1,005 | 🐛 26 | 🌐 C++ | 📅 2026-09-30 - 'Picotool is a tool for inspecting RP2040 binaries, and interacting with RP2040 devices when they are in BOOTSEL mode.'
 * [Pico C++ Setup Script](https://github.com/raspberrypi/pico-setup/blob/master/pico_setup.sh) ⭐ 128 | 🐛 8 | 🌐 Shell | 📅 2026-08-17 - A BASH script for setting up the Pico C++ toolchain on your device.
@@ -92,4 +92,4 @@ This is a Curation of Raspberry Pi Pico resources. The Raspberry Pi [Pico](https
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
