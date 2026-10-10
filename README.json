@@ -15,11 +15,11 @@
             "id": 331380723,
             "language": "C",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-08T20:19:43Z",
-            "open_issues": 315,
+            "last_commit": "2026-10-09T23:25:40Z",
+            "open_issues": 313,
             "owner": "raspberrypi",
             "repo": "pico-sdk",
-            "stars": 4986,
+            "stars": 4988,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:44.034Z"
@@ -37,10 +37,10 @@
             "language": "C",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-08T16:18:37Z",
-            "open_issues": 163,
+            "open_issues": 164,
             "owner": "raspberrypi",
             "repo": "pico-examples",
-            "stars": 3928,
+            "stars": 3929,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:44.034Z"
@@ -58,10 +58,10 @@
             "language": "C",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-08T16:18:37Z",
-            "open_issues": 163,
+            "open_issues": 164,
             "owner": "raspberrypi",
             "repo": "pico-examples",
-            "stars": 3928,
+            "stars": 3929,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:44.034Z"
@@ -105,7 +105,7 @@
             "open_issues": 16,
             "owner": "raspberrypi",
             "repo": "debugprobe",
-            "stars": 1257,
+            "stars": 1258,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:44.034Z"
@@ -122,11 +122,11 @@
             "id": 331380999,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2025-03-18T13:58:38Z",
+            "last_commit": "2026-10-09T15:42:17Z",
             "open_issues": 25,
             "owner": "raspberrypi",
             "repo": "pico-micropython-examples",
-            "stars": 1151,
+            "stars": 1152,
             "topics": [
               "raspberry-pi",
               "raspberry-pi-pico"
@@ -147,10 +147,10 @@
             "language": "C++",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-06T15:01:29Z",
-            "open_issues": 26,
+            "open_issues": 27,
             "owner": "raspberrypi",
             "repo": "picotool",
-            "stars": 1005,
+            "stars": 1006,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:44.034Z"
@@ -221,7 +221,7 @@
                 "open_issues": 8,
                 "owner": "raspberrypi",
                 "repo": "pico-tflmicro",
-                "stars": 749,
+                "stars": 750,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:26:44.034Z"
@@ -696,7 +696,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T14:22:38.328Z",
+    "last_updated": "2026-10-10T13:43:23.617Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curation of Raspberry Pi Pico resources",
