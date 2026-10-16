@@ -15,11 +15,11 @@
             "id": 331380723,
             "language": "C",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-14T23:20:59Z",
-            "open_issues": 306,
+            "last_commit": "2026-10-15T17:53:58Z",
+            "open_issues": 305,
             "owner": "raspberrypi",
             "repo": "pico-sdk",
-            "stars": 4994,
+            "stars": 4995,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:44.034Z"
@@ -40,7 +40,7 @@
             "open_issues": 164,
             "owner": "raspberrypi",
             "repo": "pico-examples",
-            "stars": 3936,
+            "stars": 3939,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:44.034Z"
@@ -61,7 +61,7 @@
             "open_issues": 164,
             "owner": "raspberrypi",
             "repo": "pico-examples",
-            "stars": 3936,
+            "stars": 3939,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:44.034Z"
@@ -78,8 +78,8 @@
             "id": 329933755,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-14T19:32:46Z",
-            "open_issues": 96,
+            "last_commit": "2026-10-16T11:48:58Z",
+            "open_issues": 95,
             "owner": "pimoroni",
             "repo": "pimoroni-pico",
             "stars": 1567,
@@ -269,7 +269,7 @@
                 "open_issues": 6,
                 "owner": "pjgpetecodes",
                 "repo": "pico-streamdeck",
-                "stars": 229,
+                "stars": 230,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:26:44.034Z"
@@ -696,7 +696,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T12:39:46.511Z",
+    "last_updated": "2026-10-16T12:26:01.468Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curation of Raspberry Pi Pico resources",
