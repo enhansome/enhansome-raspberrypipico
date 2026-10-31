@@ -19,7 +19,7 @@
             "open_issues": 312,
             "owner": "raspberrypi",
             "repo": "pico-sdk",
-            "stars": 5010,
+            "stars": 5011,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:44.034Z"
@@ -82,7 +82,7 @@
             "open_issues": 93,
             "owner": "pimoroni",
             "repo": "pimoroni-pico",
-            "stars": 1565,
+            "stars": 1566,
             "topics": [
               "raspberry-pi-pico"
             ]
@@ -126,7 +126,7 @@
             "open_issues": 25,
             "owner": "raspberrypi",
             "repo": "pico-micropython-examples",
-            "stars": 1153,
+            "stars": 1154,
             "topics": [
               "raspberry-pi",
               "raspberry-pi-pico"
@@ -150,7 +150,7 @@
             "open_issues": 35,
             "owner": "raspberrypi",
             "repo": "picotool",
-            "stars": 1013,
+            "stars": 1014,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:44.034Z"
@@ -221,7 +221,7 @@
                 "open_issues": 8,
                 "owner": "raspberrypi",
                 "repo": "pico-tflmicro",
-                "stars": 752,
+                "stars": 753,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:26:44.034Z"
@@ -242,7 +242,7 @@
                 "open_issues": 1,
                 "owner": "dr-mod",
                 "repo": "pico-solar-system",
-                "stars": 308,
+                "stars": 309,
                 "topics": [
                   "clock",
                   "micropython",
@@ -696,7 +696,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T14:09:35.260Z",
+    "last_updated": "2026-10-31T13:39:26.760Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curation of Raspberry Pi Pico resources",
