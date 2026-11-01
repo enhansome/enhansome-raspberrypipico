@@ -19,7 +19,7 @@
             "open_issues": 312,
             "owner": "raspberrypi",
             "repo": "pico-sdk",
-            "stars": 5011,
+            "stars": 5012,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:44.034Z"
@@ -105,7 +105,7 @@
             "open_issues": 17,
             "owner": "raspberrypi",
             "repo": "debugprobe",
-            "stars": 1277,
+            "stars": 1278,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:44.034Z"
@@ -696,7 +696,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T13:39:26.760Z",
+    "last_updated": "2026-11-01T14:16:25.385Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curation of Raspberry Pi Pico resources",
