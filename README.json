@@ -40,7 +40,7 @@
             "open_issues": 164,
             "owner": "raspberrypi",
             "repo": "pico-examples",
-            "stars": 3959,
+            "stars": 3960,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:44.034Z"
@@ -61,7 +61,7 @@
             "open_issues": 164,
             "owner": "raspberrypi",
             "repo": "pico-examples",
-            "stars": 3959,
+            "stars": 3960,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:44.034Z"
@@ -105,7 +105,7 @@
             "open_issues": 17,
             "owner": "raspberrypi",
             "repo": "debugprobe",
-            "stars": 1282,
+            "stars": 1283,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:44.034Z"
@@ -146,8 +146,8 @@
             "id": 331380867,
             "language": "C++",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-05T15:04:38Z",
-            "open_issues": 28,
+            "last_commit": "2026-11-06T09:28:15Z",
+            "open_issues": 27,
             "owner": "raspberrypi",
             "repo": "picotool",
             "stars": 1016,
@@ -696,7 +696,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T15:28:06.849Z",
+    "last_updated": "2026-11-06T15:04:09.117Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curation of Raspberry Pi Pico resources",
