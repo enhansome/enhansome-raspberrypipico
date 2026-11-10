@@ -16,7 +16,7 @@
             "language": "C",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-04T20:09:24Z",
-            "open_issues": 313,
+            "open_issues": 311,
             "owner": "raspberrypi",
             "repo": "pico-sdk",
             "stars": 5016,
@@ -37,7 +37,7 @@
             "language": "C",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-03T18:59:53Z",
-            "open_issues": 164,
+            "open_issues": 165,
             "owner": "raspberrypi",
             "repo": "pico-examples",
             "stars": 3963,
@@ -58,7 +58,7 @@
             "language": "C",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-03T18:59:53Z",
-            "open_issues": 164,
+            "open_issues": 165,
             "owner": "raspberrypi",
             "repo": "pico-examples",
             "stars": 3963,
@@ -105,7 +105,7 @@
             "open_issues": 17,
             "owner": "raspberrypi",
             "repo": "debugprobe",
-            "stars": 1286,
+            "stars": 1288,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:44.034Z"
@@ -126,7 +126,7 @@
             "open_issues": 25,
             "owner": "raspberrypi",
             "repo": "pico-micropython-examples",
-            "stars": 1154,
+            "stars": 1153,
             "topics": [
               "raspberry-pi",
               "raspberry-pi-pico"
@@ -696,7 +696,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T17:29:59.630Z",
+    "last_updated": "2026-11-10T15:36:13.139Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curation of Raspberry Pi Pico resources",
