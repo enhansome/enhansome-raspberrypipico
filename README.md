@@ -30,13 +30,13 @@ This is a Curation of Raspberry Pi Pico resources. The Raspberry Pi [Pico](https
 
 ## Software/Tools
 
-* [Pico SDK Repo](https://github.com/raspberrypi/pico-sdk) ⭐ 5,016 | 🐛 296 | 🌐 C | 📅 2026-11-11 - Official Raspberry Pi Pico SDK repository.
-* [Pico Examples](https://github.com/raspberrypi/pico-examples) ⭐ 3,964 | 🐛 165 | 🌐 C | 📅 2026-11-03 - Raspberry Pi Pico SDK examples.
-* [Resetting Pico Flash Memory](https://github.com/raspberrypi/pico-examples/blob/master/flash/nuke/nuke.c) ⭐ 3,964 | 🐛 165 | 🌐 C | 📅 2026-11-03 - 'There is no way to brick the board through software. However, there are some circumstances where you might want to make sure your Flash memory is empty.'
+* [Pico SDK Repo](https://github.com/raspberrypi/pico-sdk) ⭐ 5,017 | 🐛 288 | 🌐 C | 📅 2026-11-12 - Official Raspberry Pi Pico SDK repository.
+* [Pico Examples](https://github.com/raspberrypi/pico-examples) ⭐ 3,965 | 🐛 166 | 🌐 C | 📅 2026-11-11 - Raspberry Pi Pico SDK examples.
+* [Resetting Pico Flash Memory](https://github.com/raspberrypi/pico-examples/blob/master/flash/nuke/nuke.c) ⭐ 3,965 | 🐛 166 | 🌐 C | 📅 2026-11-11 - 'There is no way to brick the board through software. However, there are some circumstances where you might want to make sure your Flash memory is empty.'
 * [Pimoroni Pico](https://github.com/pimoroni/pimoroni-pico) ⭐ 1,567 | 🐛 92 | 🌐 C | 📅 2026-10-27 - 'Libraries and examples to support Pimoroni Pico add-ons in C++ and MicroPython.'
-* [Picoprobe](https://github.com/raspberrypi/picoprobe) ⭐ 1,288 | 🐛 17 | 🌐 C | 📅 2026-10-02 - 'It is possible to use one Raspberry Pi Pico to debug another Pico. This is possible via picoprobe, an application that allows a Pico to act as a USB → SWD and UART converter.'
-* [Pico MicroPython Examples](https://github.com/raspberrypi/pico-micropython-examples) ⭐ 1,154 | 🐛 25 | 🌐 Python | 📅 2026-10-09 - Raspberry Pi Pico MicroPython examples.
-* [Picotool](https://github.com/raspberrypi/picotool) ⭐ 1,016 | 🐛 29 | 🌐 C++ | 📅 2026-11-06 - 'Picotool is a tool for inspecting RP2040 binaries, and interacting with RP2040 devices when they are in BOOTSEL mode.'
+* [Picoprobe](https://github.com/raspberrypi/picoprobe) ⭐ 1,290 | 🐛 17 | 🌐 C | 📅 2026-10-02 - 'It is possible to use one Raspberry Pi Pico to debug another Pico. This is possible via picoprobe, an application that allows a Pico to act as a USB → SWD and UART converter.'
+* [Pico MicroPython Examples](https://github.com/raspberrypi/pico-micropython-examples) ⭐ 1,153 | 🐛 25 | 🌐 Python | 📅 2026-10-09 - Raspberry Pi Pico MicroPython examples.
+* [Picotool](https://github.com/raspberrypi/picotool) ⭐ 1,017 | 🐛 29 | 🌐 C++ | 📅 2026-11-11 - 'Picotool is a tool for inspecting RP2040 binaries, and interacting with RP2040 devices when they are in BOOTSEL mode.'
 * [Pico C++ Setup Script](https://github.com/raspberrypi/pico-setup/blob/master/pico_setup.sh) ⭐ 130 | 🐛 11 | 🌐 Shell | 📅 2026-10-27 - A BASH script for setting up the Pico C++ toolchain on your device.
 * [Pico-Stub](https://github.com/cpwood/Pico-Stub) ⭐ 32 | 🐛 5 | 🌐 Python | 📅 2021-05-03 - MicroPython stubs; 'allowing you to benefit from Python code linting and autocompletion in Visual Studio Code.'
 * [Thonny IDE](https://github.com/raspberrypi/thonny-pico) - Thonny IDE support for the Pico.
@@ -57,7 +57,7 @@ This is a Curation of Raspberry Pi Pico resources. The Raspberry Pi [Pico](https
 
 ### Projects
 
-* [TensorFlow Lite Micro](https://github.com/raspberrypi/pico-tflmicro) ⭐ 753 | 🐛 8 | 🌐 C++ | 📅 2024-12-27 - An official port of the TensorFlow Lite Micro library for the Pico.
+* [TensorFlow Lite Micro](https://github.com/raspberrypi/pico-tflmicro) ⭐ 754 | 🐛 8 | 🌐 C++ | 📅 2024-12-27 - An official port of the TensorFlow Lite Micro library for the Pico.
 * [Pico Solar System](https://github.com/dr-mod/pico-solar-system) ⭐ 309 | 🐛 1 | 🌐 Python | 📅 2023-08-20 - A miniature device depicting the relative position of the planets in Solar System.
 * [Pico Streamdeck](https://github.com/pjgpetecodes/pico-streamdeck) ⭐ 230 | 🐛 6 | 🌐 Python | 📅 2021-05-03 - OBS Controller using a Raspberry Pi Pico and CircuitPython.
 * [Rust Support Crate](https://github.com/devsnek/pio-rs) ⭐ 195 | 🐛 7 | 🌐 Rust | 📅 2026-09-01 - Rust support crate for Pico's PIO architecture.
@@ -92,4 +92,4 @@ This is a Curation of Raspberry Pi Pico resources. The Raspberry Pi [Pico](https
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
