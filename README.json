@@ -19,7 +19,7 @@
             "open_issues": 290,
             "owner": "raspberrypi",
             "repo": "pico-sdk",
-            "stars": 5022,
+            "stars": 5024,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:44.034Z"
@@ -40,7 +40,7 @@
             "open_issues": 166,
             "owner": "raspberrypi",
             "repo": "pico-examples",
-            "stars": 3969,
+            "stars": 3970,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:44.034Z"
@@ -61,7 +61,7 @@
             "open_issues": 166,
             "owner": "raspberrypi",
             "repo": "pico-examples",
-            "stars": 3969,
+            "stars": 3970,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:44.034Z"
@@ -105,7 +105,7 @@
             "open_issues": 17,
             "owner": "raspberrypi",
             "repo": "debugprobe",
-            "stars": 1290,
+            "stars": 1291,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:44.034Z"
@@ -126,7 +126,7 @@
             "open_issues": 25,
             "owner": "raspberrypi",
             "repo": "pico-micropython-examples",
-            "stars": 1154,
+            "stars": 1155,
             "topics": [
               "raspberry-pi",
               "raspberry-pi-pico"
@@ -242,7 +242,7 @@
                 "open_issues": 1,
                 "owner": "dr-mod",
                 "repo": "pico-solar-system",
-                "stars": 309,
+                "stars": 308,
                 "topics": [
                   "clock",
                   "micropython",
@@ -315,7 +315,7 @@
                 "open_issues": 5,
                 "owner": "ArmDeveloperEcosystem",
                 "repo": "lorawan-library-for-pico",
-                "stars": 167,
+                "stars": 168,
                 "topics": [
                   "lorawan",
                   "lorawan-device",
@@ -696,7 +696,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T14:09:36.563Z",
+    "last_updated": "2026-11-15T14:45:36.227Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curation of Raspberry Pi Pico resources",
