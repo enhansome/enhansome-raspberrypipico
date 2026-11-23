@@ -15,11 +15,11 @@
             "id": 331380723,
             "language": "C",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-19T17:07:31Z",
-            "open_issues": 295,
+            "last_commit": "2026-11-23T12:47:54Z",
+            "open_issues": 300,
             "owner": "raspberrypi",
             "repo": "pico-sdk",
-            "stars": 5031,
+            "stars": 5032,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:44.034Z"
@@ -40,7 +40,7 @@
             "open_issues": 166,
             "owner": "raspberrypi",
             "repo": "pico-examples",
-            "stars": 3975,
+            "stars": 3976,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:44.034Z"
@@ -61,7 +61,7 @@
             "open_issues": 166,
             "owner": "raspberrypi",
             "repo": "pico-examples",
-            "stars": 3975,
+            "stars": 3976,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:44.034Z"
@@ -105,7 +105,7 @@
             "open_issues": 17,
             "owner": "raspberrypi",
             "repo": "debugprobe",
-            "stars": 1295,
+            "stars": 1297,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:44.034Z"
@@ -126,7 +126,7 @@
             "open_issues": 25,
             "owner": "raspberrypi",
             "repo": "pico-micropython-examples",
-            "stars": 1155,
+            "stars": 1156,
             "topics": [
               "raspberry-pi",
               "raspberry-pi-pico"
@@ -150,7 +150,7 @@
             "open_issues": 29,
             "owner": "raspberrypi",
             "repo": "picotool",
-            "stars": 1023,
+            "stars": 1024,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:44.034Z"
@@ -171,7 +171,7 @@
             "open_issues": 11,
             "owner": "raspberrypi",
             "repo": "pico-setup",
-            "stars": 130,
+            "stars": 131,
             "topics": []
           },
           "first_seen": "2026-08-28T19:26:44.034Z"
@@ -221,7 +221,7 @@
                 "open_issues": 8,
                 "owner": "raspberrypi",
                 "repo": "pico-tflmicro",
-                "stars": 754,
+                "stars": 755,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:26:44.034Z"
@@ -696,7 +696,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T15:18:02.624Z",
+    "last_updated": "2026-11-23T19:14:56.830Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curation of Raspberry Pi Pico resources",
